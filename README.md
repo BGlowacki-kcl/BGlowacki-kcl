@@ -1,10 +1,8 @@
-# Hi there, I'm [Your Name] 👋
-
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?label=Follow&style=social)
+# Hi there, I'm Bartosz Glowacki 👋
 
 ## About Me
 
-I'm a passionate software developer with a love for creating innovative solutions to complex problems. My interests span across web development, data science, machine learning, and open-source contributions. I enjoy working with the latest technologies and continuously expanding my skill set.
+
 
 - 🔭 I’m currently working on **[Your Current Project]**
 - 🌱 I’m currently learning **[Current Learning Focus]**
