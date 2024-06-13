@@ -16,6 +16,7 @@ Personally I love:
 ## Contact with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-glowacki-kcl/)
+
 e-mail: bglowacki.kcl@gmail.com
 
 ## Skills
