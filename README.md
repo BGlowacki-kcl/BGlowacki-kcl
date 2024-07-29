@@ -18,6 +18,7 @@ Personally I love:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-glowacki-kcl/)
 
 e-mail: bglowacki.kcl@gmail.com
+landing page: https://www.bartoszglowacki.site/
 
 ## Skills
 
@@ -45,7 +46,6 @@ e-mail: bglowacki.kcl@gmail.com
 ### Model predicting Titanic survival 
 - ML-Based on input data (age, ticket type, ticket price, and others), model using decision tree classifier with accuracy exceding 90%, predicts likelihood of Titanic disaster survival, employing real database.-Usage of Pickle library to save and load model.-Usage of libraries like Scikit-learn, Pandas, Numpy and Mathlib.
 - Usage of Streamlit library to create a user friendly input environment.
-
 
 ### CRUD back-end application - Python Django
 - I created a simple web application in Python using Django framework. App works with default Django database and is capable of registering and loging in users, creating data, reading it, updating and deleting form system. App is hosted using Python Anywhere, the link to the webpage is here: https://bartek1301.pythonanywhere.com/
